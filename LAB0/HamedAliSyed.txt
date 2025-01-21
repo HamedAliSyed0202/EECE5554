@@ -1,0 +1,2 @@
+Completed Ubuntu 22.04 Installation.
+I am ready to use GIT GitHub.
